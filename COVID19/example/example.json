@@ -1,0 +1,12 @@
+{
+  "description": "COVID-19 spatio-temporal event sequences. Each sequence is a list of [normalized_time, longitude, latitude] events.",
+  "num_sequences_train": 1450,
+  "event_format": ["normalized_time", "longitude", "latitude"],
+  "sample_sequence": [
+    [0.03381883077868708, -74.85979712100958, 39.72155480331737],
+    [0.06739587364242428, -74.01427934450079, 40.76116518636281],
+    [0.12205753856521784, -74.59638753641175, 40.23472424114101],
+    [0.12575972879000308, -74.48760379880751, 40.532707938136824],
+    [0.14639210398534808, -74.20494423030016, 40.71314]
+  ]
+}

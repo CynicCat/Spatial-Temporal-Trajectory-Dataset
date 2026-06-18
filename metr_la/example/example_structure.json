@@ -1,0 +1,25 @@
+{
+  "description": "METR-LA traffic speed data (HDF5 format). 207 sensors, 5-min intervals, Mar-Jun 2012.",
+  "file": "metr-la.h5",
+  "keys": ["axis0", "axis1", "block0_values"],
+  "data": {
+    "df": {
+      "shape": ["num_timesteps", "num_sensors"],
+      "dtype": "float64",
+      "description": "Traffic speed values"
+    },
+    "axis0": {
+      "shape": ["num_sensors"],
+      "description": "Sensor IDs"
+    },
+    "axis1": {
+      "shape": ["num_timesteps"],
+      "description": "Timestamps"
+    }
+  },
+  "sensor_graph": {
+    "files": ["adj_mx.pkl", "graph_sensor_ids.csv"],
+    "description": "Sensor proximity graph and adjacency matrix"
+  },
+  "sample_usage": "import h5py; f = h5py.File('metr-la.h5'); speeds = f['df'][:]"
+}

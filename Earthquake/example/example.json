@@ -1,0 +1,12 @@
+{
+  "description": "Earthquake event sequences. Each sequence is a list of [normalized_time, longitude, latitude] events.",
+  "num_sequences_train": 950,
+  "event_format": ["normalized_time", "longitude", "latitude"],
+  "sample_sequence": [
+    [0.24379178240724286, 140.039, 27.653000000000002],
+    [0.36065150462945894, 127.876, 28.715999999999998],
+    [0.8026243055555824, 144.305, 41.851000000000006],
+    [0.9795539351862317, 140.47299999999998, 35.722],
+    [1.0752086805559884, 132.591, 31.123]
+  ]
+}
