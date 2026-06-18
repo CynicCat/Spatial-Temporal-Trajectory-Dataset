@@ -1,0 +1,12 @@
+{
+  "description": "Citibike NYC trip sequences. Each sequence is a list of [time_hours, longitude, latitude] events.",
+  "num_sequences_train": 2440,
+  "event_format": ["time_hours", "longitude", "latitude"],
+  "sample_sequence": [
+    [1.0621594444444444, -73.94176835385016, 40.78776574671421],
+    [1.4670541666666668, -73.99479787940649, 40.75097801906675],
+    [1.633000277777778, -73.98685871865864, 40.744925167718144],
+    [1.7232541666666668, -73.99731864127342, 40.74223412345917],
+    [1.9314525, -73.980865724123, 40.72937852150851]
+  ]
+}

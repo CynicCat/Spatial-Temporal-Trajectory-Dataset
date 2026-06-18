@@ -1,0 +1,6 @@
+city,user,time,venue_id,utc_time,lon,lat,venue_cat_name
+London,262915,60,4aec9f4bf964a52091c921e3,Tue Apr 03 18:00:39 +0000 2012,-0.090546,51.498044,Pub
+London,78404,60,4b9024ccf964a5204a7833e3,Tue Apr 03 18:02:55 +0000 2012,-0.302248,51.514978,Restaurant
+London,209258,60,4bd9dff02a3a0f4726a7a8b6,Tue Apr 03 18:04:06 +0000 2012,-0.070255,51.516956,Indian Restaurant
+London,3409,60,4b044900f964a520e05222e3,Tue Apr 03 18:07:02 +0000 2012,-0.221701,51.50722,Portuguese Restaurant
+London,109689,60,4f6880ce6b74aa26bb61f7ac,Tue Apr 03 18:08:09 +0000 2012,-0.085487,51.522703,Coworking Space

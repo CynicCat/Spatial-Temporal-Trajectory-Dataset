@@ -1,0 +1,16 @@
+# Claude
+.claude/
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# my_worldtrace (downloading in progress)
+my_worldtrace/
+
+# OS files
+.DS_Store
+Thumbs.db

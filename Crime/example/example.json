@@ -1,0 +1,16 @@
+{
+  "description": "Crime event sequences. Each sequence is a list of [time, event_type_id] events.",
+  "num_sequences_train": 3000,
+  "num_event_types": 243,
+  "event_format": ["time", "event_type_id"],
+  "sample_sequence": [
+    [1.417, 177],
+    [1.683, 81],
+    [1.9, 174],
+    [2.0, 122],
+    [4.5, 54],
+    [6.0, 163],
+    [6.25, 166],
+    [7.0, 75]
+  ]
+}
