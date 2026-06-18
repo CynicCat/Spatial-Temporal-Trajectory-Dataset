@@ -1,6 +1,6 @@
 # Spatial-Temporal Trajectory Dataset
 
-A curated collection of 20 spatial-temporal trajectory and mobility datasets for research in trajectory modeling, location prediction, and spatio-temporal point processes.
+A curated collection of 19 spatial-temporal trajectory and mobility datasets for research in trajectory modeling, location prediction, and spatio-temporal point processes.
 
 ## Dataset Overview
 
@@ -25,7 +25,6 @@ A curated collection of 20 spatial-temporal trajectory and mobility datasets for
 | 17 | [Tencent](tencent/) | Road network + GPS | 320K | TXT | Map matching |
 | 18 | [Source](source/) | Transfer source domain | 33.6M | CSV/TXT | Cross-city pretraining |
 | 19 | [Target](target/) | Transfer target domain | 53.2M | CSV | Domain adaptation |
-| 20 | [ISP](isp/) | — | — | — | (Placeholder) |
 
 ## Data Categories
 
