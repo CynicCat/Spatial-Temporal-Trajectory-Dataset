@@ -1,3 +1,0 @@
-ISP dataset is currently empty. Data will be added in a future release.
-
-Expected format: ISP-level user mobility / network traffic data.
